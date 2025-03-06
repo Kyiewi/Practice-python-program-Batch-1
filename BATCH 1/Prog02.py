@@ -5,5 +5,4 @@ i = int(input("Input second number: "))
 
 if z==i:
     print("Equal")
-else:
-    print("Not Equal")
+
