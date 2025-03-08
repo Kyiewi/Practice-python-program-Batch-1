@@ -1,6 +1,6 @@
 #Prog05: Create a program that ask user to input 2 numbers. Print the quotient of the two numbers with the decimal point
 
-e = float(input("Input first number: "))
-f = float(input("Input first number: "))
+num1 = float(input("Input first number: "))
+num2 = float(input("Input first number: "))
 
-print(e/f)
+print(num1/num1)
